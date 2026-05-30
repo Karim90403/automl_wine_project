@@ -1,0 +1,41 @@
+{
+  "best_params": {
+    "model": "random_forest",
+    "rf_n_estimators": 260,
+    "rf_max_depth": 21,
+    "rf_min_samples_split": 17,
+    "rf_min_samples_leaf": 6,
+    "rf_max_features": "log2"
+  },
+  "best_validation_f1": 0.5831533477321814,
+  "test_metrics": {
+    "accuracy": 0.825187969924812,
+    "precision": 0.532,
+    "recall": 0.6584158415841584,
+    "f1": 0.588495575221239,
+    "roc_auc": 0.8655383519790494
+  },
+  "rows": 6497,
+  "features_used": [
+    "fixed acidity",
+    "volatile acidity",
+    "citric acid",
+    "residual sugar",
+    "chlorides",
+    "free sulfur dioxide",
+    "total sulfur dioxide",
+    "density",
+    "pH",
+    "sulphates",
+    "alcohol",
+    "wine_type",
+    "acid_ratio",
+    "so2_ratio",
+    "free_so2_level",
+    "total_so2_level",
+    "salinity",
+    "alcohol_acid_ratio",
+    "citric_presence",
+    "high_sulphates"
+  ]
+}
