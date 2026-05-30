@@ -1,4 +1,4 @@
-# Automated ML Pipeline for Wine Quality Prediction
+# Automated ML Pipeline for Wine Quality Prediction - Автоматизация ML - Музафаров Карим Ринатович
 
 ## Project Overview
 
